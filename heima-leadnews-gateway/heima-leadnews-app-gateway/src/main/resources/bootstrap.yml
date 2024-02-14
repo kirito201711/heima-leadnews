@@ -1,6 +1,7 @@
 server:
   port: 51601
 spring:
+
   application:
     name: leadnews-app-gateway
   cloud:
